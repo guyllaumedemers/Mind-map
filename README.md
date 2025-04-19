@@ -7,5 +7,5 @@ Here can be found the link to the official Miro board used to build this mind ma
 
 #### Preview
 
-![Mindmap]([https://github.com/guyllaumedemers/Math/blob/master/Res/VertexTransformPipeline.png](https://github.com/guyllaumedemers/Mind-map/blob/master/Res/MindmapPreview.jpg))
+![Mindmap](https://github.com/guyllaumedemers/Mind-map/blob/master/Res/MindmapPreview.jpg)
 
